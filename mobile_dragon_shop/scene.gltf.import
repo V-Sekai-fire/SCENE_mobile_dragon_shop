@@ -1,0 +1,36 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://lakg8xb7ovyn"
+path="res://.godot/imported/scene.gltf-17789544e3198ac36fdeaac4dc825fa9.scn"
+
+[deps]
+
+source_file="res://mobile_dragon_shop/scene.gltf"
+dest_files=["res://.godot/imported/scene.gltf-17789544e3198ac36fdeaac4dc825fa9.scn"]
+
+[params]
+
+nodes/root_type="Node3D"
+nodes/root_name="Scene Root"
+nodes/root_scale=10.0
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.1
+skins/use_named_skins=true
+animation/import=true
+animation/fps=30
+import_script/path=""
+_subresources={
+"nodes": {
+"PATH:Sketchfab_model/Final_Scene_Dragon_Shop_By_Nive_IIobjcleanermaterialmergergles/Object_12": {
+"decomposition/precision": 10,
+"generate/navmesh": 1,
+"generate/physics": true
+}
+}
+}

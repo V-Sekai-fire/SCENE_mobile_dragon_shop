@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cvjmprrhao8fe"
+path.s3tc="res://.godot/imported/editor_screenshot_2022-03-07T142729.png-7c92e03223665bc1912a2ecc9f94d6b1.s3tc.ctex"
+path.etc2="res://.godot/imported/editor_screenshot_2022-03-07T142729.png-7c92e03223665bc1912a2ecc9f94d6b1.etc2.ctex"
+metadata={
+"imported_formats": ["bptc", "s3tc", "etc2"],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://mobile_dragon_shop/thumbnails/editor_screenshot_2022-03-07T142729.png"
+dest_files=["res://.godot/imported/editor_screenshot_2022-03-07T142729.png-7c92e03223665bc1912a2ecc9f94d6b1.s3tc.ctex", "res://.godot/imported/editor_screenshot_2022-03-07T142729.png-7c92e03223665bc1912a2ecc9f94d6b1.etc2.ctex"]
+
+[params]
+
+compress/mode=2
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/bptc_ldr=1
+compress/normal_map=0
+compress/channel_pack=0
+compress/streamed=false
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=false
+process/premult_alpha=true
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/size_limit=1024
+detect_3d/compress_to=0

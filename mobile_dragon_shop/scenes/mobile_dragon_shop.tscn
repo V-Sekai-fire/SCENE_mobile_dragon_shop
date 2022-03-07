@@ -1,0 +1,15 @@
+[gd_scene load_steps=4 format=3 uid="uid://g76vp28rd86t"]
+
+[ext_resource type="PackedScene" uid="uid://lakg8xb7ovyn" path="res://mobile_dragon_shop/scene.gltf" id="1_84ihs"]
+[ext_resource type="Script" path="res://addons/vsk_map/vsk_map_definition.gd" id="2_otqwj"]
+[ext_resource type="Texture2D" uid="uid://cvjmprrhao8fe" path="res://mobile_dragon_shop/thumbnails/editor_screenshot_2022-03-07T142729.png" id="3_hhih8"]
+
+[node name="scene" instance=ExtResource( "1_84ihs" )]
+script = ExtResource( "2_otqwj" )
+map_resources = []
+entity_instance_list = []
+entity_instance_properties_list = []
+database_id = ""
+vskeditor_preview_type = 1
+vskeditor_preview_texture = ExtResource( "3_hhih8" )
+vskeditor_pipeline_paths = []

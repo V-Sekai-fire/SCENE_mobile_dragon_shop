@@ -116,7 +116,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="SK_template"
+config/name="SK_mobile_dragon_shop"
 config/features=PackedStringArray("4.0")
 
 [autoload]
